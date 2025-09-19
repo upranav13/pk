@@ -1,0 +1,86 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+
+<style>
+  /* body text */
+  body {
+    font-family: 'Lobster Two', sans-serif;
+  }
+
+  /* headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Dancing Script', cursive;
+  }
+
+  /* navigation + site title */
+  .masthead, .site-title, .site-nav {
+    font-family: 'Lobster Two', sans-serif;
+  }
+</style>
+
+<style>
+  /* Publications layout */
+  .pubs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 24px;
+    margin: 16px 0 32px;
+  }
+
+  /* Each publication entry (no white background box) */
+  .pub-card {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 16px;
+    align-items: start;
+    padding: 0;
+    border: none;
+    background: none;
+  }
+
+  /* Thumbnail image */
+  .pub-thumb {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+
+  /* Text area */
+  .pub-meta {
+    min-width: 0;
+    font-family: 'Merriweather', serif;   /* professional serif font */
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+
+  /* Title of paper */
+  .pub-title {
+    margin: 0 0 6px;
+    font-size: 1.05rem;
+    font-weight: 600;
+    font-family: 'Merriweather', serif;
+  }
+
+  /* Authors & venue */
+  .pub-authors, .pub-venue {
+    margin: 0 0 6px;
+    color: #444;
+  }
+
+  /* Buttons */
+  .pub-links .btn {
+    margin-right: 6px;
+    margin-top: 6px;
+  }
+
+  @media (max-width: 520px) {
+    .pub-card { grid-template-columns: 1fr; }
+    .pub-thumb { width: 100%; height: 180px; }
+  }
+</style>
+

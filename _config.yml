@@ -18,12 +18,11 @@ kramdown:
 author:
   name: "Pranav Unnikrishnan"
   avatar: "/assets/images/avatar.png"
-  bio: "Evolutionary biologist | science art & outreach"
-  location: "India / Europe"
+  bio: "Evolutionary biologist | Designer & Artist"
   links:
     - label: "Email"
-      url: "mailto:you@example.com"
-    - label: "Behance"
-      url: "https://www.behance.net/yourhandle"
+      url: "upranav13@gmail.com"
+    - label: "ORCID"
+      url: "https://orcid.org/my-orcid?orcid=0009-0003-8532-6324"
     - label: "GitHub"
-      url: "https://github.com/YOURUSER"
+      url: "https://github.com/upranav13"

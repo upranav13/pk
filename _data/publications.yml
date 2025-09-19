@@ -1,0 +1,17 @@
+# One item per paper. Fields are optional; keep what you need.
+
+- Year: 2024
+  Title: "6Pgdh polymorphism in wild bulb mite populations: prevalence, environmental correlates and life history trade-offs"
+  Authors: "Pranav Unnikrishnan, Szymon Grzesik, Magdalena Trojańska, Beata Klimek & Agata Plesnar-Bielak"
+  Journal name: "Experimental and Applied Acarology"
+  doi: "https://doi.org/10.1007/s10493-024-00909-4"
+  pdf: "/files/manuscript_2.pdf"
+  thumbnail: "/assets/images/pubs/thumb_2.png"
+
+- Year: 2025
+  Title: "The interplay of environmental and social factors influences balancing selection: 6Pgdh in bulb mites"
+  Authors: "Pranav Unnikrishnan, Anna Spaeth, Magdalena Trojańska, Wiesław Babik, Agata Plesnar-Bielak"
+  Journal name: "Currently in review (Ecology and Evolution)"
+  doi: "https://doi.org/10.21203/rs.3.rs-4835969/v1"
+  pdf: "/files/manuscript_1.pdf"
+  thumbnail: "/assets/images/pubs/thumb_1.png"
