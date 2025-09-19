@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Welcome to my domain..."
 author_profile: true
 ---

@@ -19,6 +19,9 @@
 <loc>http://0.0.0.0:4000/art/digital/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/science-art/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/art/</loc>
 </url>
 <url>
@@ -26,6 +29,9 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/science-art/model-species/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/portfolio/</loc>
@@ -38,6 +44,9 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/scicomm/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/science-art/themes/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/art/traditional/</loc>
