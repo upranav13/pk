@@ -1,0 +1,27 @@
+title: "Pranav Unnikrishnan"
+description: "Evolutionary biology • science communication • science art"
+url: "https://YOURUSER.github.io"     # <-- replace YOURUSER with your GitHub username
+baseurl: "/pk"                         # <-- project site path (repo name)
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+author:
+  name: "Pranav Unnikrishnan"
+  avatar: "/assets/images/avatar.png"
+  bio: "Evolutionary biologist | science art & outreach"
+  location: "India / Europe"
+  links:
+    - label: "Email"
+      url: "mailto:you@example.com"
+    - label: "Behance"
+      url: "https://www.behance.net/yourhandle"
+    - label: "GitHub"
+      url: "https://github.com/YOURUSER"
