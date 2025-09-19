@@ -1,8 +1,9 @@
 title: "Pranav Unnikrishnan"
 description: "Evolutionary biology • science communication • science art"
-url: "https://upranav13.github.io"     # <-- replace YOURUSER with your GitHub username
-baseurl: "/pk"                         # <-- project site path (repo name)
+url: "https://upranav13.github.io"
+baseurl: "/pk"                        
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: aqua
 
 plugins:
   - jekyll-include-cache
