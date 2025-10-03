@@ -1,0 +1,11 @@
+{% assign masthead_nav = site.data.navigation.main %}
+<nav id="site-nav" class="greedy-nav">
+  <ul class="visible-links">
+    {% for link in masthead_nav %}
+      <li class="masthead__menu-item {% if page.permalink == link.url %}active{% endif %}">
+        <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <ul class="hidden-links hidden"></ul>
+</nav>
